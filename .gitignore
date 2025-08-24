@@ -1,0 +1,78 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+
+broadcast/
+lib/
+../foundry-f23/foundry-simplestorage/.github/
+        ../foundry-f23/foundry-simplestorage/.gitignore
+        ../foundry-f23/foundry-simplestorage/README.md
+        ../foundry-f23/foundry-simplestorage/foundry.toml
+        ../foundry-f23/foundry-simplestorage/script/
+        ../foundry-f23/foundry-simplestorage/src/
+        ../foundry-f23/foundry-simplestorage/test/
+        .github/
+        .gitignore
+        Makefile
+        README/
+        foundry.lock
+        foundry.toml
+        html-fund-me-f23/
+        script/
+        src/
+        test/
+        ../foundry-smart-contract-lotttery-f23/.github/
+        ../foundry-smart-contract-lotttery-f23/.gitignore
+        ../foundry-smart-contract-lotttery-f23/README.md
+        ../foundry-smart-contract-lotttery-f23/foundry.lock
+        ../foundry-smart-contract-lotttery-f23/foundry.toml
+        ../foundry-smart-contract-lotttery-f23/script/
+        ../foundry-smart-contract-lotttery-f23/src/
+        ../foundry.toml
+        ../foundryup-zksync
+        ../hello_foundry/
+        ../script/
+        ../src/
+        ../test/
+        ../.bash_history
+        ../.bash_logout
+        ../.bashrc
+        ../.cache/
+        ../.config/
+        ../.dotnet/
+        ../.foundry/
+        ../.github/
+        ../.gitignore
+        ../.landscape/
+        ../.motd_shown
+        ../.profile
+        ../.sudo_as_admin_successful
+        ../.svm/
+        ../.vscode-server/
+        ../.zksync/
+        ../MyFoundryProject/.github/
+        ../MyFoundryProject/.gitignore
+        ../MyFoundryProject/NewFoundryProject/.github/
+        ../MyFoundryProject/NewFoundryProject/.gitignore
+        ../MyFoundryProject/NewFoundryProject/README.md
+        ../MyFoundryProject/NewFoundryProject/foundry.toml
+        ../MyFoundryProject/NewFoundryProject/script/
+        ../MyFoundryProject/NewFoundryProject/src/
+        ../MyFoundryProject/NewFoundryProject/test/
+        ../MyFoundryProject/README.md
+        ../MyFoundryProject/foundry.toml
+        ../MyFoundryProject/script/
+        ../MyFoundryProject/src/
+        ../MyFoundryProject/test/
+        ../README.md

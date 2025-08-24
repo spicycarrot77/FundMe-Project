@@ -1,0 +1,32 @@
+{
+  "lib/chainlink-brownie-contracts": {
+    "rev": "5cb41fbc9b525338b6098da5ea7dd0b7e92f89e4"
+  },
+  "../foundry-f23/foundry-simplestorage/lib/forge-std": {
+    "rev": "8bbcf6e3f8f62f419e5429a0bd89331c85c37824"
+  },
+  "../foundry-smart-contract-lotttery-f23/lib/forge-std": {
+    "rev": "8bbcf6e3f8f62f419e5429a0bd89331c85c37824"
+  },
+  "lib/foundry-devops": {
+    "tag": {
+      "name": "0.4.0",
+      "rev": "efff097a87e70c3d15661c9f2a2daeae0b33d5d5"
+    }
+  },
+  "../MyFoundryProject/NewFoundryProject/lib/forge-std": {
+    "rev": "c7be2a3481f9e51230880bb0949072c7e3a4da82"
+  },
+  "../foundry-smart-contract-lotttery-f23/lib/chainlink-brownie-contracts": {
+    "rev": "12393bd475bd60c222ff12e75c0f68effe1bbaaf"
+  },
+  "../lib/forge-std": {
+    "rev": "8bbcf6e3f8f62f419e5429a0bd89331c85c37824"
+  },
+  "../MyFoundryProject/lib/forge-std": {
+    "rev": "8bbcf6e3f8f62f419e5429a0bd89331c85c37824"
+  },
+  "lib/forge-std": {
+    "rev": "8bbcf6e3f8f62f419e5429a0bd89331c85c37824"
+  }
+}
